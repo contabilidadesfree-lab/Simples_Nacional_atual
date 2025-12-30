@@ -11,7 +11,7 @@
         { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 19.0, "parcela_deduzir": 378000 }
       ],
       "reparticao": [
-        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 12.74, "PIS": 2.76, "CPP": 41.5, "ICMS": 34.0, "ISS": 0.0, "IPI": 0.0 },
+        { "IRPJ": 10.0, "CSLL": 3.5, "COFINS": 12.74, "PIS": 2.76, "CPP": 41.5, "ICMS": 34.0, "ISS": 0.0, "IPI": 0.0 },
         { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 12.74, "PIS": 2.76, "CPP": 41.5, "ICMS": 34.0, "ISS": 0.0, "IPI": 0.0 },
         { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 12.74, "PIS": 2.76, "CPP": 42.0, "ICMS": 33.5, "ISS": 0.0, "IPI": 0.0 },
         { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 12.74, "PIS": 2.76, "CPP": 42.0, "ICMS": 33.5, "ISS": 0.0, "IPI": 0.0 },
@@ -101,3 +101,4 @@
     }
   }
 }
+
